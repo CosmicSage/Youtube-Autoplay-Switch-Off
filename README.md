@@ -24,4 +24,4 @@ You can now disable Developer Mode
 
 ## Future
 Eventually Upload to the store & fix the popup
-You'll probably need to reload the "video" page for it to work
+Because of the nature of YouTube You'll probably need to reload the "video" page for it to work
